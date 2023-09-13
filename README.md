@@ -2,7 +2,7 @@
 
 Bienvenido a mi perfil de GitHub.
 
-Soy un desarrollador autodidacta con un enfoque sólido en **Tecnologías Web Frontend** y una serie de **habilidades adicionales** que hacen que mi contribuciónes a cualquier grupo de trabajo seas solidas.
+Soy un desarrollador autodidacta con un enfoque sólido en **Tecnologías Web Frontend** y una serie de **habilidades adicionales** que hacen que mis contribuciónes a cualquier grupo de trabajo sean solidas.
 
 ## Habilidades Principales 🚀
 
