@@ -2,17 +2,18 @@
 
 Bienvenido a mi perfil de GitHub.
 
-Soy un desarrollador autodidacta con un enfoque sólido en **Tecnologías Web Frontend** y una serie de **habilidades adicionales** que hacen que mis contribuciónes a cualquier grupo de trabajo sean solidas.
+Soy un desarrollador autodidacta certificado como Fullstack Developer con JS en Platzi. Tengo un enfoque sólido en **Tecnologías Web Frontend y Backend** y una serie de **habilidades adicionales** que hacen que mis contribuciones a cualquier grupo de trabajo sean sólidas.
 
 ## Habilidades Principales 🚀
 
-- **Desarrollo Web**: Poseo un sólido conocimiento en HTML, CSS y JavaScript para crear sitios web atractivos y funcionales.
+- **Desarrollo Frontend**:
+  - HTML, CSS y JavaScript
+  - React, Axios, Vite, Tailwind y Bootstrap
+  - Wordpress
 
-- **Backend**: Mi experiencia en PHP y MySQL me permite construir aplicaciones robustas y seguras.
-
-- **React**: Tengo conomientos en el desarrollo de interfaces de usuario modernas y atractivas.
-
-- **WordPress**: Personalizo y optimizo sitios web para brindar experiencias excepcionales.
+- **Desarrollo Backend**:
+  - PHP y MySQL
+  - Express, MongoDB
 
 - **Atención al Cliente**: Mi capacidad de atención al cliente garantiza una comunicación efectiva y una resolución de problemas óptima.
 
