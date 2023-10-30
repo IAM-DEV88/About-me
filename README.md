@@ -29,6 +29,9 @@ Creo en el poder de la colaboración y el aprendizaje constante. Si tienes proye
 
 Echa un vistazo a mis proyectos y contribuciones en GitHub para ver mis habilidades en acción. ¡Espero que encuentres algo interesante!
 
+<img src="https://i.ibb.co/qdv40cL/Captura-de-pantalla-2023-10-30-114759.png"/>
+<img src="https://i.ibb.co/CPFsrxq/Captura-de-pantalla-2023-08-25-115824.png"/>
+
 ## Contáctame 📫
 
 Si deseas colaborar, aprender juntos o simplemente charlar sobre tecnología, no dudes en contactarme.
