@@ -7,13 +7,13 @@ Soy un desarrollador autodidacta certificado como Fullstack Developer con JS en 
 ## Habilidades Principales 🚀
 
 - **Desarrollo Frontend**:
-  - HTML, CSS y JavaScript
-  - React, Axios, Vite, Tailwind y Bootstrap
-  - Wordpress
+  - HTML, CSS, Responsive, JavaScript, Bootstrap [ Semi-senior ]
+  - React, Axios, Vite, Tailwind [ Junior ]
+  - Wordpress [ Junior ]
 
 - **Desarrollo Backend**:
-  - PHP y MySQL
-  - Express, MongoDB
+  - PHP y MySQL [ Junior ]
+  - Express, MongoDB [ Junior ]
 
 - **Atención al Cliente**: Mi capacidad de atención al cliente garantiza una comunicación efectiva y una resolución de problemas óptima.
 
