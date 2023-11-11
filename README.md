@@ -2,7 +2,7 @@
 
 Bienvenido a mi perfil de GitHub.
 
-Soy Técnico en sistemas, Tecnólogo en Gestión Administrativa y también programador autodidacta **<a href="http://platzi.com/p/IAM-DEV88/">certificado</a>**. Tengo un enfoque sólido en **Tecnologías Web Frontend y Backend** y una serie de **habilidades adicionales** que hacen que mis contribuciones a cualquier grupo de trabajo sean sólidas.
+Soy Técnico en sistemas, Tecnólogo en Gestión Administrativa y también programador autodidacta **<a href="http://platzi.com/p/IAM-DEV88/">certificado</a>**. Tengo un enfoque sólido en **Programación web y atención al cliente** que hacen que mis contribuciones a cualquier grupo de trabajo sean sólidas.
 
 ## Habilidades Principales 🚀
 
@@ -33,8 +33,10 @@ Creo en el poder de la colaboración y el aprendizaje constante. Si tienes proye
 
 Echa un vistazo a mis proyectos y contribuciones en GitHub para ver mis habilidades en acción. ¡Espero que encuentres algo interesante!
 
-# <a href="https://github.com/IAM-DEV88/fundamentos-nodejs">Conceptos y prácticas de NodeJS</a>
-# <a href="https://github.com/IAM-DEV88/backend-nodejs">Conceptos y prácticas de Backend con NodeJS</a>
+### - <a href="https://github.com/IAM-DEV88/fundamentos-nodejs">Conceptos y prácticas de NodeJS</a>
+### - <a href="https://github.com/IAM-DEV88/backend-nodejs">Conceptos y prácticas de Backend con NodeJS</a>
+### - <a href="https://github.com/IAM-DEV88/agendareact">Agenda Contable en React, RouterDOM, Bootstrap, MUI, Axios, Express</a>
+### - <a href="https://github.com/IAM-DEV88/AdminTiendaWeb">Administrador de Tienda web en HTML, CSS y JavaScript</a>
 
 <img src="https://drive.google.com/uc?export=view&id=1X46F3hYW2jE0d3pmsfuKHuFpkVUyORgd" style="max-width: 100%; height: auto" title="Abrir imagen" />
 <img src="https://drive.google.com/uc?export=view&id=1pK1Q6dJluzgtPerqogHpgDvY5cuV30_s" style="max-width: 100%; height: auto" title="Abrir imagen" />
