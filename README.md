@@ -7,17 +7,20 @@ Soy Técnico en sistemas, Tecnólogo en Gestión Administrativa y también progr
 ## Habilidades Principales 🚀
 
 - **Desarrollo Frontend**:
-  - Semantic HTML, Mobile First & Responsive CSS, JavaScript, Bootstrap [ Intermedio ]
-  - Patrones de diseño, React, RouterDOM, MUI, Axios, Vite, Tailwind [ Junior ]
+  - Semantic **HTML**, Mobile First & Responsive **CSS**, **JavaScript** y **Bootstrap** [ Intermedio ]
+  - Patrones de diseño, React, RouterDOM, MUI, Axios, Vite y Tailwind [ Junior ]
   - Wordpress [ Junior ]
 
 - **Desarrollo Backend**:
-  - NodeJS [ Junior ]
+  - Express y NodeJS [ Junior ]
+  - Despliegue Gcloud, Heroku y Vercel [ Junior ]
+  - Postman e Insomnia [ Junior ]
   - PHP y MySQL [ Junior ]
-  - Express, MongoDB [ Junior ]
+  - MongoDB [ Junior ]
  
 - **Próximos repositorios para prácticas en**:
   - C#, .NET, ASP y Java
+  - Azure y AWS
 
 - **Atención al Cliente**: Mi capacidad de atención al cliente garantiza una comunicación efectiva y una resolución de problemas óptima.
 
@@ -33,13 +36,13 @@ Creo en el poder de la colaboración y el aprendizaje constante. Si tienes proye
 
 Echa un vistazo a mis proyectos y contribuciones en GitHub para ver mis habilidades en acción. ¡Espero que encuentres algo interesante!
 
-### - <a href="https://github.com/IAM-DEV88/fundamentos-nodejs">Conceptos y prácticas de NodeJS</a>
-### - <a href="https://github.com/IAM-DEV88/backend-nodejs">Conceptos y prácticas de Backend con NodeJS</a>
-### - <a href="https://github.com/IAM-DEV88/agendareact">Agenda Contable en React, RouterDOM, Bootstrap, MUI, Axios, Express</a>
-### - <a href="https://github.com/IAM-DEV88/AdminTiendaWeb">Administrador de Tienda web en HTML, CSS y JavaScript</a>
+- <a href="https://github.com/IAM-DEV88/fundamentos-nodejs">Conceptos y prácticas de NodeJS</a>
+- <a href="https://github.com/IAM-DEV88/backend-nodejs">Conceptos y prácticas de Backend con NodeJS</a>
+- <a href="https://github.com/IAM-DEV88/agendareact">Agenda Contable en React, RouterDOM, Bootstrap, MUI, Axios, Express</a>
+- <a href="https://github.com/IAM-DEV88/AdminTiendaWeb">Administrador de Tienda web en HTML, CSS y JavaScript</a>
 
-<img src="https://drive.google.com/uc?export=view&id=1X46F3hYW2jE0d3pmsfuKHuFpkVUyORgd" style="max-width: 100%; height: auto" title="Abrir imagen" />
-<img src="https://drive.google.com/uc?export=view&id=1pK1Q6dJluzgtPerqogHpgDvY5cuV30_s" style="max-width: 100%; height: auto" title="Abrir imagen" />
+<img src="https://drive.google.com/uc?export=view&id=1X46F3hYW2jE0d3pmsfuKHuFpkVUyORgd" style="width: 100%; height: auto" title="Agenda UI" />
+<img src="https://drive.google.com/uc?export=view&id=1pK1Q6dJluzgtPerqogHpgDvY5cuV30_s" style="width: 100%; height: auto" title="WebAdmin UI" />
 
 ## Contáctame 📫
 
