@@ -2,7 +2,7 @@
 
 Bienvenido a mi perfil de GitHub.
 
-Soy un desarrollador autodidacta certificado como Fullstack Developer con JS en Platzi. Tengo un enfoque sólido en **Tecnologías Web Frontend y Backend** y una serie de **habilidades adicionales** que hacen que mis contribuciones a cualquier grupo de trabajo sean sólidas.
+Soy un desarrollador autodidacta **<a href="http://platzi.com/p/IAM-DEV88/" target="blank">certificado</a>** como Fullstack Developer con JS. Tengo un enfoque sólido en **Tecnologías Web Frontend y Backend** y una serie de **habilidades adicionales** que hacen que mis contribuciones a cualquier grupo de trabajo sean sólidas.
 
 ## Habilidades Principales 🚀
 
@@ -29,10 +29,10 @@ Creo en el poder de la colaboración y el aprendizaje constante. Si tienes proye
 
 Echa un vistazo a mis proyectos y contribuciones en GitHub para ver mis habilidades en acción. ¡Espero que encuentres algo interesante!
 
-<a href="https://drive.google.com/uc?export=view&id=1X46F3hYW2jE0d3pmsfuKHuFpkVUyORgd" target="_blank">
+<a href="https://github.com/IAM-DEV88/agendareact" target="blank">
 <img src="https://drive.google.com/uc?export=view&id=1X46F3hYW2jE0d3pmsfuKHuFpkVUyORgd" style="width: contain; max-width: 100%; height: auto" title="Abrir en nueva pestaña." />
 </a>
-<a href="https://drive.google.com/uc?export=view&id=1pK1Q6dJluzgtPerqogHpgDvY5cuV30_s" target="_blank">
+<a href="https://github.com/IAM-DEV88/AdminTiendaWeb" target="blank">
 <img src="https://drive.google.com/uc?export=view&id=1pK1Q6dJluzgtPerqogHpgDvY5cuV30_s" style="width: contain; max-width: 100%; height: auto" title="Abrir en nueva pestaña." />
 </a>
 
