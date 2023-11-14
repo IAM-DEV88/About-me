@@ -38,24 +38,26 @@ cliente** que hacen que mis contribuciones a cualquier grupo de trabajo sean só
         <div>Tailwind</div>
         <div>MUI</div>
         <div>Wordpress</div>
-        <div>PHP</div>
-        <div>MySQL</div>
       </td>
       <td>
-        <div>Axios</div>
-        <div>Express</div>
         <div>NodeJS</div>
+        <div>Express</div>
+        <div>PHP</div>
+        <div>MySQL</div>
+        <div>MongoDB</div>
+        <div>Axios</div>
         <div>Gcloud</div>
         <div>Heroku</div>
         <div>Vercel</div>
         <div>Postman</div>
         <div>Insomnia</div>
-        <div>MongoDB</div>
       </td>
     </tr>
     <tr>
       <td align="center">Estudiando<br>Próximos repositorios</td>
       <td>
+        <div>Angular</div>
+        <div>VueJS</div>
       </td>
      <td>
         <div>C#</div>
