@@ -8,7 +8,7 @@ cliente** que hacen que mis contribuciones a cualquier grupo de trabajo sean só
 
 ## Habilidades Principales 🚀
 
-<table style="display:unset; min-width:100%">
+<table align="center">
   <thead>
     <tr>
       <th>Actualmente</th>
