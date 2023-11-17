@@ -1,37 +1,36 @@
-# ¡Hola! 👋
+# Hello! 👋
 
-Bienvenido a mi perfil de GitHub.
+Welcome to my GitHub profile.
 
-Soy Técnico en sistemas, Tecnólogo en Gestión Administrativa y también programador autodidacta **<a
-  href="http://platzi.com/p/IAM-DEV88/">certificado</a>**. Tengo experiencia resolviendo necesidades de clientes específicos como Instituciones Educativas, negocios pequeños y medianos, entre otros.
+I am a Systems Technician, Administrative Management Technologist, and a self-taught **<a href="http://platzi.com/p/IAM-DEV88/">certified</a>** programmer. I have experience addressing specific needs for clients, including Educational Institutions, small businesses, and others.
 
-Comencé mi camino reparando salones de informática, cumplí perfiles como profesor suplente de inglés y asistente administrativo. Entre tanto, mi curiosidad me llevo a comprender conceptos básicos de HTML, CSS, Bootstrap, JavaScript, PHP y MySQL para maquetar pequeños sitios web que servían a necesidades personales como:
-- Bitácora de reparaciones
-- Control de asistencia de estudiantes
-- Generador de guiones en inglés (párrafos sencillos)
-- Agenda de tareas
-- <a href="https://github.com/IAM-DEV88/RIE">Control de contabilidad personal</a>
-- [Otros proyectos desarrollados](https://github.com/IAM-DEV88/About-me#otros-proyectos-desarrollados-)
+I began my journey by repairing computer labs, took on roles as a substitute English teacher, and an administrative assistant. Along the way, my curiosity led me to grasp basic concepts of HTML, CSS, Bootstrap, JavaScript, PHP, and MySQL to create small websites catering to personal needs such as:
+- Repair log
+- Student attendance control
+- English script generator (simple paragraphs)
+- Task agenda
+- <a href="https://github.com/IAM-DEV88/RIE">Personal accounting control</a>
+- [Other developed projects](https://github.com/IAM-DEV88/About-me#otros-proyectos-desarrollados-)
 
-De esta forma forjé hábitos autodidactas en los que diariamente utilizo documentación oficial de referencia, videos y foros tanto en español como en inglés para mejorar y consolidar mis conocimientos.
+This journey forged self-taught habits where I daily use official reference documentation, videos, and forums in both Spanish and English to enhance and solidify my knowledge.
 
-Gracias a esto tuve oportunidad de desarrollar algunas páginas web para Instituciones Educativas, pequeñas tiendas y asociaciones que publique usando GoDaddy, Hostinger, entre otros servicios de hosting. Actualmente, aprovecho cada oportunidad para aprender mucho más y llevar mis desarrollos a un nivel profesional. 
+Thanks to this, I had the opportunity to develop websites for Educational Institutions, small shops, and associations, which I published using services like GoDaddy, Hostinger, among others. Currently, I seize every opportunity to learn more and elevate my developments to a professional level.
 
-# Perfil laboral actual:
-  - Frontend developer, Inglés B2 conversacional
+# Current Work Profile:
+  - Frontend developer, Conversational English B2
 
-## Habilidades en desarrollo 🚀
+## Skills in Development 🚀
 <table align="center">
   <thead>
     <tr>
-      <th>Actualmente</th>
+      <th>Currently</th>
       <th>Frontend</th>
       <th>Backend</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center">Nivel Intermedio a Senior</td>
+      <td align="center">Intermediate to Senior Level</td>
       <td>
         <div>HTML</div>
         <div>CSS</div>
@@ -42,11 +41,11 @@ Gracias a esto tuve oportunidad de desarrollar algunas páginas web para Institu
       </td>
     </tr>
     <tr>
-      <td align="center">Nivel Junior a Intermedio</td>
+      <td align="center">Junior to Intermediate Level</td>
       <td>
         <div>React</div>
         <div>RouterDOM</div>
-        <div>Patrones de diseño</div>
+        <div>Design patterns</div>
         <div>Vite</div>
         <div>Tailwind</div>
         <div>MUI</div>
@@ -67,7 +66,7 @@ Gracias a esto tuve oportunidad de desarrollar algunas páginas web para Institu
       </td>
     </tr>
     <tr>
-      <td align="center">Estudiando<br>Próximos repositorios</td>
+      <td align="center">Studying<br>Upcoming Repositories</td>
       <td>
         <div>Angular</div>
         <div>VueJS</div>
@@ -84,32 +83,29 @@ Gracias a esto tuve oportunidad de desarrollar algunas páginas web para Institu
   </tbody>
 </table>
 
-## **Adicional**:
-- **Atención al Cliente**: Mi capacidad de atención al cliente garantiza una comunicación efectiva y una resolución de problemas óptima.
-- **Inglés B2**: Mi nivel de inglés B2 me permite comunicarme de manera fluida y efectiva en un contexto internacional.
-- **Comunicación Clara**: Tengo la habilidad de presentar productos tecnológicos de manera sencilla y comprensible para
-audiencias amplias.
+## **Additional**:
+- **Customer Service**: My customer service ability ensures effective communication and optimal problem resolution.
+- **English B2**: My B2 level in English allows me to communicate fluently and effectively in an international context.
+- **Clear Communication**: I have the ability to present technological products in a simple and understandable manner for broad audiences.
 
-## 📫 Contacto y colaboraciones 🤝
-Creo en el poder de la colaboración y el aprendizaje constante. Si tienes proyectos emocionantes o ideas innovadoras, ¡estoy listo para unirme y contribuir!
-Si deseas colaborar, aprender juntos o simplemente charlar sobre tecnología, no dudes en contactarme en www.linkedin.com/in/iam-dev88.
+## 📫 Contact and Collaborations 🤝
+I believe in the power of collaboration and continuous learning. If you have exciting projects or innovative ideas, I'm ready to join and contribute! Whether you want to collaborate, learn together, or simply discuss technology, feel free to contact me at www.linkedin.com/in/iam-dev88.
 
-# ¡Otros proyectos desarrollados! 📚
-Echa un vistazo a mis proyectos para ver mis habilidades en acción. ¡Espero que encuentres algo interesante!
-- Bitácora de reparaciones
-- Control de asistencia de estudiantes
-- Generador de guiones en inglés (párrafos sencillos)
-- Agenda de tareas
-- <a href="https://github.com/IAM-DEV88/RIE">Control de contabilidad personal</a>
-- Control de recogidas y despachos de domicilios
-- <a href="https://github.com/IAM-DEV88/TrackVisualizer"> Reproductor de música con efectos visuales y sincronización de letras</a>
-- <a href="https://github.com/IAM-DEV88/WowTask">Control de Personajes para World of Warcraft</a>
-- <a href="https://github.com/IAM-DEV88/QuickName">QuickName Addon para World of Warcraft</a>
-- <a href="https://github.com/IAM-DEV88/AdminTiendaWeb">Administrador de Tienda web</a>
-- <a href="https://github.com/IAM-DEV88/wowtaskreact">Control de Personajes para World of Warcraft React</a>
-- <a href="https://github.com/IAM-DEV88/agendareact">Agenda de tareas y control de contabilidad personal React</a>
-- <a href="https://github.com/IAM-DEV88/fundamentos-nodejs">Conceptos y prácticas de NodeJS</a>
-- <a href="https://github.com/IAM-DEV88/backend-nodejs">Conceptos y prácticas de Backend con NodeJS</a>
+# Other Developed Projects! 📚
+Check out my projects to see my skills in action. I hope you find something interesting!
+- Repair log
+- Student attendance control
+- English script generator (simple paragraphs)
+- Task agenda
+- <a href="https://github.com/IAM-DEV88/RIE">Personal accounting control</a>
+- Pickup and delivery tracking
+- <a href="https://github.com/IAM-DEV88/TrackVisualizer">Music player with visual effects and synchronized lyrics</a>
+- <a href="https://github.com/IAM-DEV88/WowTask">Character control for World of Warcraft</a>
+- <a href="https://github.com/IAM-DEV88/QuickName">QuickName Addon for World of Warcraft</a>
+- <a href="https://github.com/IAM-DEV88/AdminTiendaWeb">Web Store Manager</a>
+- <a href="https://github.com/IAM-DEV88/wowtaskreact">Character control for World of Warcraft React</a>
+- <a href="https://github.com/IAM-DEV88/agendareact">Task agenda and personal accounting control React</a>
+- <a href="https://github.com/IAM-DEV88/fundamentos-nodejs">NodeJS concepts and practices</a>
+- <a href="https://github.com/IAM-DEV88/backend-nodejs">Backend concepts and practices with NodeJS</a>
 
-
-> Perdi el codigo de los proyectos mas antiguos 😭, aun no sabia Git 😅. Con el tiempo ire reconstruyendolos, por la nostalgia de mis primeros pasos 💪
+> I lost the code for the older projects 😭, I didn't know Git yet 😅. Over time, I will be reconstructing them for the nostalgia of my first steps 💪
