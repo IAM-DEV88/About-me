@@ -10,7 +10,7 @@ I began my journey by repairing computer labs, took on roles as a substitute Eng
 - English script generator (simple paragraphs)
 - Task agenda
 - <a href="https://github.com/IAM-DEV88/RIE">Personal accounting control</a>
-- [Other developed projects](https://github.com/IAM-DEV88/About-me#otros-proyectos-desarrollados-)
+- [Other developed projects](https://github.com/IAM-DEV88/About-me/blob/main/README.md#other-developed-projects-)
 
 This journey forged self-taught habits where I daily use official reference documentation, videos, and forums in both Spanish and English to enhance and solidify my knowledge.
 
