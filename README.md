@@ -17,7 +17,7 @@ De esta forma forjé hábitos autodidactas en los que diariamente utilizo docume
 
 Gracias a esto tuve oportunidad de desarrollar algunas páginas web para Instituciones Educativas, pequeñas tiendas y asociaciones que publique usando GoDaddy, Hostinger, entre otros servicios de hosting. Actualmente, aprovecho cada oportunidad para aprender mucho más y llevar mis desarrollos a un nivel profesional. 
 
-- Perfil laboral actual:
+# Perfil laboral actual:
   - Frontend developer, Inglés B2 conversacional
 
 ## Habilidades en desarrollo 🚀
@@ -92,7 +92,7 @@ audiencias amplias.
 
 ## 📫 Contacto y colaboraciones 🤝
 Creo en el poder de la colaboración y el aprendizaje constante. Si tienes proyectos emocionantes o ideas innovadoras, ¡estoy listo para unirme y contribuir!
-Si deseas colaborar, aprender juntos o simplemente charlar sobre tecnología, no dudes en contactarme.
+Si deseas colaborar, aprender juntos o simplemente charlar sobre tecnología, no dudes en contactarme en www.linkedin.com/in/iam-dev88.
 
 # ¡Otros proyectos desarrollados! 📚
 Echa un vistazo a mis proyectos para ver mis habilidades en acción. ¡Espero que encuentres algo interesante!
