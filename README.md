@@ -3,24 +3,22 @@
 Bienvenido a mi perfil de GitHub.
 
 Soy Técnico en sistemas, Tecnólogo en Gestión Administrativa y también programador autodidacta **<a
-  href="http://platzi.com/p/IAM-DEV88/">certificado</a>**. Tengo experiencia resolviendo necesidades de clientes especificos como Instituciones Educativas, negocios pequeños y medianos, entre otros.
+  href="http://platzi.com/p/IAM-DEV88/">certificado</a>**. Tengo experiencia resolviendo necesidades de clientes específicos como Instituciones Educativas, negocios pequeños y medianos, entre otros.
 
-Comence mi camino reparando salones de informatica, cumpli perfiles como profesor suplente de ingles y asistente administrativo. Entre tanto mi curiosidad me llevo a comprender conceptos basicos de HTML, CSS, Bootstrap, JavaScript, PHP y MySQL para maquetar pequeños sitios web que servian a necesidades personales como:
-- Bitacora de reparaciones
+Comencé mi camino reparando salones de informática, cumplí perfiles como profesor suplente de inglés y asistente administrativo. Entre tanto, mi curiosidad me llevo a comprender conceptos básicos de HTML, CSS, Bootstrap, JavaScript, PHP y MySQL para maquetar pequeños sitios web que servían a necesidades personales como:
+- Bitácora de reparaciones
 - Control de asistencia de estudiantes
-- Generador de guiones en ingles (parrafos sencillos)
+- Generador de guiones en inglés (párrafos sencillos)
 - Agenda de tareas
 - <a href="https://github.com/IAM-DEV88/RIE">Control de contabilidad personal</a>
-- Control de recogidas y despachos de domicilios
-- <a href="https://github.com/IAM-DEV88/AdminTiendaWeb">Administrador de Tienda web</a>
-- [Otros proyectos desarrollados](https://github.com/IAM-DEV88/About-me/edit/main/README.md#otros-)
+- [Otros proyectos desarrollados](https://github.com/IAM-DEV88/About-me#otros-proyectos-desarrollados-)
 
-De esta forma forje habitos autodidactas en los que diariamente utilizo documentacion oficial de referencia y foros tanto en español como en ingles para mejorar y consolidar mis conocimientos.
+De esta forma forjé hábitos autodidactas en los que diariamente utilizo documentación oficial de referencia, videos y foros tanto en español como en inglés para mejorar y consolidar mis conocimientos.
 
-Gracias a esto tuve oportunidad de desarrollar algunas web para Insituciones Educativas, pequeñas tiendas y asociaciones que publique usando GoDaddy, Hostinger, entre otros servicios de hosting. Actualmente aprovecho cada oportunidad para aprender mucho mas y llevar mis desarrollos a un nivel profesional. 
+Gracias a esto tuve oportunidad de desarrollar algunas páginas web para Instituciones Educativas, pequeñas tiendas y asociaciones que publique usando GoDaddy, Hostinger, entre otros servicios de hosting. Actualmente, aprovecho cada oportunidad para aprender mucho más y llevar mis desarrollos a un nivel profesional. 
 
 - Perfil laboral actual:
-  - Frontend developer, Ingles B2 conversacional
+  - Frontend developer, Inglés B2 conversacional
 
 ## Habilidades en desarrollo 🚀
 <table align="center">
@@ -87,26 +85,24 @@ Gracias a esto tuve oportunidad de desarrollar algunas web para Insituciones Edu
 </table>
 
 ## **Adicional**:
-- **Atención al Cliente**: Mi capacidad de atención al cliente garantiza una comunicación efectiva y una resolución de
-problemas óptima.
+- **Atención al Cliente**: Mi capacidad de atención al cliente garantiza una comunicación efectiva y una resolución de problemas óptima.
 - **Inglés B2**: Mi nivel de inglés B2 me permite comunicarme de manera fluida y efectiva en un contexto internacional.
 - **Comunicación Clara**: Tengo la habilidad de presentar productos tecnológicos de manera sencilla y comprensible para
 audiencias amplias.
 
-## Contácto 📫 y colaboraciones 🤝
-Creo en el poder de la colaboración y el aprendizaje constante. Si tienes proyectos emocionantes o ideas innovadoras,
-¡estoy listo para unirme y contribuir!
+## 📫 Contacto y colaboraciones 🤝
+Creo en el poder de la colaboración y el aprendizaje constante. Si tienes proyectos emocionantes o ideas innovadoras, ¡estoy listo para unirme y contribuir!
 Si deseas colaborar, aprender juntos o simplemente charlar sobre tecnología, no dudes en contactarme.
 
 # ¡Otros proyectos desarrollados! 📚
-Echa un vistazo a mis proyectos y contribuciones en GitHub para ver mis habilidades en acción. ¡Espero que encuentres algo interesante!
-- Bitacora de reparaciones
+Echa un vistazo a mis proyectos para ver mis habilidades en acción. ¡Espero que encuentres algo interesante!
+- Bitácora de reparaciones
 - Control de asistencia de estudiantes
-- Generador de guiones en ingles (parrafos sencillos)
+- Generador de guiones en inglés (párrafos sencillos)
 - Agenda de tareas
 - <a href="https://github.com/IAM-DEV88/RIE">Control de contabilidad personal</a>
 - Control de recogidas y despachos de domicilios
-- <a href="https://github.com/IAM-DEV88/TrackVisualizer"> Reproductor de musica con efectos visuales y sincronizacion de letras</a>
+- <a href="https://github.com/IAM-DEV88/TrackVisualizer"> Reproductor de música con efectos visuales y sincronización de letras</a>
 - <a href="https://github.com/IAM-DEV88/WowTask">Control de Personajes para World of Warcraft</a>
 - <a href="https://github.com/IAM-DEV88/QuickName">QuickName Addon para World of Warcraft</a>
 - <a href="https://github.com/IAM-DEV88/AdminTiendaWeb">Administrador de Tienda web</a>
